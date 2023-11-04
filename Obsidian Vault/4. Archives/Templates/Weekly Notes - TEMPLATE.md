@@ -1,0 +1,93 @@
+#WeeklyNotes 
+- - -
+# THIS WEEKS BUDGET
+>[!important] Do a budget of your weekly finances, each & every week.
+
+## Finance Notes
+
+
+## Most Important 
+### WEEKS Total: $ 
+
+
+
+## Grocery List
+>[!info] Add in some ideas for recipes to cook this week
+### Recipe Ideas
+
+
+### Grocery List
+
+
+- - -
+# WEEKLY TASKS
+>[!todo] Weekly Todo Tasks - Things that need to get done at some point / by the end of the week
+
+- [ ] Write: Next Weeks Budget 
+
+- [ ] Write *something* into your Journal
+	- Should put into here your ***WHY:*** - **MAKE MUM PROUD**
+
+- [ ] Work on building your habit track - one to be listed down below
+	- Maybe in the near future if there's some time - you could setup a system where you can have a button *(community plugin)*, that  runs a command: Make a new note inside (folder) - Naming Convention following Weekly Notes
+	  
+	  This way you can have the habit tracker seperate or something - not to make the Weekly Notes too congested
+- [ ] Figure out how to do the - SAE Weekly Journal section
+	- Need to figure out the SAE Journal Section of the weekly notes
+	- Might be better to - have in the Unit Folder & linked from here
+- - -
+# WEEKLY JOURNAL • REFLECTION
+>[!info] Journaling & reflection
+> The main thing to remember for this section: CONSISTENCY - Don't worry about writing a whole bunch of shit, just focus on getting some ideas & thoughts down, even if it's just some dot points. 
+>
+> Main idea is to build that habit.
+
+## How are you *feeling* this week?
+
+
+
+## How productive have you been with your work this week?
+
+
+
+## Notable ideas for next week?
+
+
+
+## Dump Section
+
+
+
+- - -
+# HABIT TRACKER
+>[!info] Tracking Habits 
+> Once you start fleshing out how the Habit Tracker works - put the explainer here
+
+
+| HABIT           | Mon | Tues | Wed | Thurs | Fri | Sat | Sun |
+| --------------- | --- | ---- | --- | ----- | --- | --- | --- |
+| Drink water     |     |      |     |       |     |     |     |
+| Exercise        |     |      |     |       |     |     |     |
+| Cook Food       |     |      |     |       |     |     |     |
+| Payed Off Debts |     |      |     |       |     |     |     |
+| Stayed ON TASK  |     |      |     |       |     |     |     |
+
+### Habit Notes
+
+
+
+- - -
+# SAE WORK • JOURNAL
+>[!info] Remember to tag SAE when actually putting in work here
+## Todo
+
+
+## Pre Class
+
+
+## In Class
+
+
+## Weekly Reflection
+
+
